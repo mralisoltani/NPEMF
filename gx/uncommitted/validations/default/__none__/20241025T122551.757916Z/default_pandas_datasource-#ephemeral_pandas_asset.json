@@ -1,0 +1,190 @@
+{
+  "evaluation_parameters": {},
+  "meta": {
+    "active_batch_definition": {
+      "batch_identifiers": {},
+      "data_asset_name": "#ephemeral_pandas_asset",
+      "data_connector_name": "fluent",
+      "datasource_name": "default_pandas_datasource"
+    },
+    "batch_markers": {
+      "ge_load_time": "20241025T122551.761158Z",
+      "pandas_data_fingerprint": "1b6d0346d8b132fc3d3623aca0b33c90"
+    },
+    "batch_spec": {
+      "reader_method": "read_excel",
+      "reader_options": {
+        "io": "data/NordPoolMarket.xlsx"
+      }
+    },
+    "checkpoint_id": null,
+    "checkpoint_name": "Energy Data Analysis",
+    "expectation_suite_name": "default",
+    "great_expectations_version": "0.18.19",
+    "run_id": {
+      "run_name": null,
+      "run_time": "2024-10-25T14:25:51.757916+02:00"
+    },
+    "validation_id": null,
+    "validation_time": "20241025T122559.785505Z"
+  },
+  "results": [
+    {
+      "exception_info": {
+        "exception_message": null,
+        "exception_traceback": null,
+        "raised_exception": false
+      },
+      "expectation_config": {
+        "expectation_type": "expect_column_values_to_be_between",
+        "kwargs": {
+          "batch_id": "default_pandas_datasource-#ephemeral_pandas_asset",
+          "column": "ElbasMinPriceEUR",
+          "max_value": 10,
+          "min_value": 1
+        },
+        "meta": {}
+      },
+      "meta": {},
+      "result": {
+        "element_count": 99354,
+        "missing_count": 10956,
+        "missing_percent": 11.027235944199528,
+        "partial_unexpected_counts": [
+          {
+            "count": 2,
+            "value": 56.099998
+          },
+          {
+            "count": 1,
+            "value": 56.529999
+          },
+          {
+            "count": 1,
+            "value": 57.700001
+          },
+          {
+            "count": 1,
+            "value": 58.299999
+          },
+          {
+            "count": 1,
+            "value": 58.610001
+          },
+          {
+            "count": 1,
+            "value": 60.91
+          },
+          {
+            "count": 1,
+            "value": 61.389999
+          },
+          {
+            "count": 1,
+            "value": 64.470001
+          },
+          {
+            "count": 1,
+            "value": 70.400002
+          },
+          {
+            "count": 1,
+            "value": 70.739998
+          },
+          {
+            "count": 1,
+            "value": 70.760002
+          },
+          {
+            "count": 1,
+            "value": 71.0
+          },
+          {
+            "count": 1,
+            "value": 71.150002
+          },
+          {
+            "count": 1,
+            "value": 74.360001
+          },
+          {
+            "count": 1,
+            "value": 75.0
+          },
+          {
+            "count": 1,
+            "value": 77.800003
+          },
+          {
+            "count": 1,
+            "value": 78.809998
+          },
+          {
+            "count": 1,
+            "value": 79.889999
+          },
+          {
+            "count": 1,
+            "value": 80.0
+          }
+        ],
+        "partial_unexpected_index_list": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "partial_unexpected_list": [
+          61.389999,
+          64.470001,
+          70.739998,
+          70.400002,
+          74.360001,
+          75.0,
+          78.809998,
+          80.0,
+          77.800003,
+          79.889999,
+          71.150002,
+          70.760002,
+          57.700001,
+          71.0,
+          58.610001,
+          60.91,
+          56.529999,
+          58.299999,
+          56.099998,
+          56.099998
+        ],
+        "unexpected_count": 83269,
+        "unexpected_percent": 94.19783253014774,
+        "unexpected_percent_nonmissing": 94.19783253014774,
+        "unexpected_percent_total": 83.81041528272641
+      },
+      "success": false
+    }
+  ],
+  "statistics": {
+    "evaluated_expectations": 1,
+    "success_percent": 0.0,
+    "successful_expectations": 0,
+    "unsuccessful_expectations": 1
+  },
+  "success": false
+}
