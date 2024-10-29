@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730211021172
+current_stage: None
+description: ''
+last_updated_timestamp: 1730211021172
+name: Tracking SpotPriceDK (ARIMA)
+run_id: 529d5a49852d4779a925a6ce86b3a13c
+run_link: ''
+source: mlflow-artifacts:/553406220146805487/529d5a49852d4779a925a6ce86b3a13c/artifacts/SpotPriceDK
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/553406220146805487/529d5a49852d4779a925a6ce86b3a13c/artifacts/SpotPriceDK
+user_id: null
+version: 1

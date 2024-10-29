@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/490843805283547440/f7cb06126b444545a28f1c063095f874/artifacts
+end_time: 1730211039066
+entry_point_name: ''
+experiment_id: '490843805283547440'
+lifecycle_stage: active
+run_id: f7cb06126b444545a28f1c063095f874
+run_name: adventurous-moth-72
+run_uuid: f7cb06126b444545a28f1c063095f874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730211026735
+status: 3
+tags: []
+user_id: ali

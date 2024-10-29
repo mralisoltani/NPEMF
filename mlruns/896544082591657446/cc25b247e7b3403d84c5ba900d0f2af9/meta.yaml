@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/896544082591657446/cc25b247e7b3403d84c5ba900d0f2af9/artifacts
+end_time: 1730206999714
+entry_point_name: ''
+experiment_id: '896544082591657446'
+lifecycle_stage: active
+run_id: cc25b247e7b3403d84c5ba900d0f2af9
+run_name: traveling-frog-697
+run_uuid: cc25b247e7b3403d84c5ba900d0f2af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730206995261
+status: 3
+tags: []
+user_id: ali

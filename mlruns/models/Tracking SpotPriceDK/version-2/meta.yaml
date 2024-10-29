@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730209850839
+current_stage: None
+description: ''
+last_updated_timestamp: 1730209850839
+name: Tracking SpotPriceDK
+run_id: c71ad6bbdc4c49339d799c0a1b698ef7
+run_link: ''
+source: mlflow-artifacts:/553406220146805487/c71ad6bbdc4c49339d799c0a1b698ef7/artifacts/SpotPriceDK
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/553406220146805487/c71ad6bbdc4c49339d799c0a1b698ef7/artifacts/SpotPriceDK
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/490843805283547440/f568002bdaed4b1b8721b6f6dc3a809f/artifacts
+end_time: 1730210937500
+entry_point_name: ''
+experiment_id: '490843805283547440'
+lifecycle_stage: active
+run_id: f568002bdaed4b1b8721b6f6dc3a809f
+run_name: tasteful-hare-538
+run_uuid: f568002bdaed4b1b8721b6f6dc3a809f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730210925349
+status: 3
+tags: []
+user_id: ali

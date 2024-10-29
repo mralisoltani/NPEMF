@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/4efae2fb681544dd8e82c916bf4504c9/artifacts
+end_time: 1730210246729
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: 4efae2fb681544dd8e82c916bf4504c9
+run_name: masked-lynx-771
+run_uuid: 4efae2fb681544dd8e82c916bf4504c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730210238811
+status: 3
+tags: []
+user_id: ali

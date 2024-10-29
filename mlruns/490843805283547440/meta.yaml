@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/490843805283547440
+creation_time: 1730210804844
+experiment_id: '490843805283547440'
+last_update_time: 1730210804844
+lifecycle_stage: active
+name: SARIMA Model

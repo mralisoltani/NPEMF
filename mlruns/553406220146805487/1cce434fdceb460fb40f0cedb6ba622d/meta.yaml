@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/1cce434fdceb460fb40f0cedb6ba622d/artifacts
+end_time: 1730209980706
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: 1cce434fdceb460fb40f0cedb6ba622d
+run_name: exultant-dolphin-0
+run_uuid: 1cce434fdceb460fb40f0cedb6ba622d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730209980691
+status: 4
+tags: []
+user_id: ali

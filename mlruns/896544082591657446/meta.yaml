@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/896544082591657446
+creation_time: 1730206995256
+experiment_id: '896544082591657446'
+last_update_time: 1730206995256
+lifecycle_stage: active
+name: Linear Regression Model

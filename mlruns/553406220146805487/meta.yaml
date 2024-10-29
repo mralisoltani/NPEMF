@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/553406220146805487
+creation_time: 1730209159753
+experiment_id: '553406220146805487'
+last_update_time: 1730209159753
+lifecycle_stage: active
+name: ARIMA Model

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/ff58ada2cf98440abd55dd2c59db9194/artifacts
+end_time: 1730209954240
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: ff58ada2cf98440abd55dd2c59db9194
+run_name: rebellious-duck-131
+run_uuid: ff58ada2cf98440abd55dd2c59db9194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730209954231
+status: 4
+tags: []
+user_id: ali

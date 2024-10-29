@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730211014090
+current_stage: None
+description: ''
+last_updated_timestamp: 1730211014090
+name: Tracking SpotPriceDK (Linear Regression)
+run_id: df443e68f72b4bf187dfbf9cdff5b6ea
+run_link: ''
+source: mlflow-artifacts:/896544082591657446/df443e68f72b4bf187dfbf9cdff5b6ea/artifacts/SpotPriceDK
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/896544082591657446/df443e68f72b4bf187dfbf9cdff5b6ea/artifacts/SpotPriceDK
+user_id: null
+version: 1

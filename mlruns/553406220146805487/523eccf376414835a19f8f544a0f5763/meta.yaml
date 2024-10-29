@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/523eccf376414835a19f8f544a0f5763/artifacts
+end_time: 1730209160082
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: 523eccf376414835a19f8f544a0f5763
+run_name: rare-foal-749
+run_uuid: 523eccf376414835a19f8f544a0f5763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730209159759
+status: 4
+tags: []
+user_id: ali

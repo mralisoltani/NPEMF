@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/6429dd709c4648afab05a1829a30f154/artifacts
+end_time: 1730210118141
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: 6429dd709c4648afab05a1829a30f154
+run_name: flawless-kit-715
+run_uuid: 6429dd709c4648afab05a1829a30f154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730210118129
+status: 4
+tags: []
+user_id: ali

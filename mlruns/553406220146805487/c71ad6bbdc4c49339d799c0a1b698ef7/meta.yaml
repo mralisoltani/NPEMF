@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553406220146805487/c71ad6bbdc4c49339d799c0a1b698ef7/artifacts
+end_time: 1730209853319
+entry_point_name: ''
+experiment_id: '553406220146805487'
+lifecycle_stage: active
+run_id: c71ad6bbdc4c49339d799c0a1b698ef7
+run_name: nebulous-stag-88
+run_uuid: c71ad6bbdc4c49339d799c0a1b698ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730209845900
+status: 3
+tags: []
+user_id: ali

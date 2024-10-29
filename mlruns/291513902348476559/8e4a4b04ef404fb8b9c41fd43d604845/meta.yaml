@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/291513902348476559/8e4a4b04ef404fb8b9c41fd43d604845/artifacts
+end_time: 1730124974449
+entry_point_name: ''
+experiment_id: '291513902348476559'
+lifecycle_stage: active
+run_id: 8e4a4b04ef404fb8b9c41fd43d604845
+run_name: righteous-asp-851
+run_uuid: 8e4a4b04ef404fb8b9c41fd43d604845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730124970576
+status: 3
+tags: []
+user_id: ali

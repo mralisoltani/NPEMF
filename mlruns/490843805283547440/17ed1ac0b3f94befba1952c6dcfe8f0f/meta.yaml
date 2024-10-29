@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/490843805283547440/17ed1ac0b3f94befba1952c6dcfe8f0f/artifacts
+end_time: 1730210804858
+entry_point_name: ''
+experiment_id: '490843805283547440'
+lifecycle_stage: active
+run_id: 17ed1ac0b3f94befba1952c6dcfe8f0f
+run_name: casual-loon-516
+run_uuid: 17ed1ac0b3f94befba1952c6dcfe8f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730210804849
+status: 4
+tags: []
+user_id: ali
